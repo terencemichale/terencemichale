@@ -26,4 +26,3 @@ I build tools for catalog search, audio transcription, and purchase-data process
 - Explaining limitations and distinguishing working features from prototypes.
 
 My repositories identify coursework, external assets, and AI-assisted preparation where applicable. Speech projects integrate pretrained models; they do not claim original model training.
-
