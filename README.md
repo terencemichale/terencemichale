@@ -1,19 +1,22 @@
 # Terence Michale
 
-### Software development · Python automation
+### Targeting Software Developer / Software Engineer roles · Python & automation
 
-I build practical tools for catalog search, audio transcription, and everyday workflows. My projects combine Python APIs and automation with programming fundamentals in C++, Java, and Python.
+My background is in enterprise software implementation and ML data operations. I'm moving into a dedicated software engineering role, building on that experience with working Python applications, automation, APIs, and tested programming fundamentals.
 
-I'm focused on software developer and Python automation opportunities. This portfolio presents working examples, reproducible setup instructions, and clear notes about what is implemented and what remains experimental.
+I build tools for catalog search, audio transcription, and purchase-data processing. **Start with LILA Catalog Search** for a complete browser-to-API example, then explore the transcription workflow and C++ fundamentals below. Each project includes setup instructions, tests, sample output, and honest scope notes.
 
-## Selected projects
+## Featured projects
 
 | Project | What to explore | Technologies |
 | --- | --- | --- |
 | [LILA Catalog Search](https://github.com/terencemichale/lila-catalog-search) | A searchable fabric catalog with a browser demo, JSON API, and regression tests | Python, FastAPI, Pydantic |
-| [Local Transcription Toolkit](https://github.com/terencemichale/local-transcription-toolkit) | Audio capture, transcription, optional speaker detection, and structured exports | Python, WhisperX, Streamlit |
+| [Local Transcription Toolkit](https://github.com/terencemichale/local-transcription-toolkit) | Verified CPU transcription and TXT/JSON exports; optional alignment and speaker detection remain unverified | Python, WhisperX, Streamlit |
 | [Corner Grocer Tracker](https://github.com/terencemichale/corner-grocer-tracker) | Purchase-frequency analysis, case-insensitive search, and a console histogram | C++17, STL, CMake |
-| [Computer Science Coursework](https://github.com/terencemichale/computer-science-coursework) | Selected C++, Python, and Java exercises, organized with run instructions | C++, Python, Java Swing |
+
+## Supporting coursework
+
+[Computer Science Coursework](https://github.com/terencemichale/computer-science-coursework) collects selected C++, Python, and Java Swing learning projects, organized by language with run instructions. The three applications above are the best starting points for reviewing my work.
 
 ## What I focus on
 
@@ -23,3 +26,4 @@ I'm focused on software developer and Python automation opportunities. This port
 - Explaining limitations and distinguishing working features from prototypes.
 
 My repositories identify coursework, external assets, and AI-assisted preparation where applicable. Speech projects integrate pretrained models; they do not claim original model training.
+
